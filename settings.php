@@ -6,8 +6,8 @@
 
     */
 
-    $username = "_DB_USER_";
-    $password = "_DB_PASSWORD_";
+    $username = "jailaninadzeri";
+    $password = "taiping09";
     $server   = "localhost";
     $database = "emoncms";
 
@@ -37,13 +37,13 @@
             'datadir'=>'/var/lib/phpfiwa/'
         ),
         'phpfina'=>array(
-            'datadir'=>'/var/lib/phpfina/'
+            'datadir'=>'C:\\Users\\LENOVO\\Desktop\\wifi setting\\emoncmsdata\\phpfina'
         ),
         'phptimeseries'=>array(
-            'datadir'=>'/var/lib/phptimeseries/'
+            'datadir'=>'C:\\Users\\LENOVO\\Desktop\\wifi setting\\emoncmsdata\\phpfiwa'
         ),
         'phptimestore'=>array(
-            'datadir'=>'/var/lib/phptimestore/'
+            'datadir'=>'C:\\Users\\LENOVO\\Desktop\\wifi setting\\emoncmsdata\\phptimeseries'
         )
     );
     
